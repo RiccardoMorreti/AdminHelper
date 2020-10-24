@@ -8,3 +8,6 @@ Admin Helper for Eternal Role Play
 Требуется для работы скрипта: imgui, cjson, SAMPFUNCS, moonloader, Microsoft Visual C++ 2015-2019 x86
 
 О багах писать vk.com/riccardo.morreti
+
+
+Информация дополнительно: parol2.ini является конфигом для автоввода паролей, рекомендуется после скачивания скрипта сразу же зайти в конфиг и поменять  значения на  свои: parol = 123123(условно) alogin = qwerty123(условно) pinkod = 123123(условно)
